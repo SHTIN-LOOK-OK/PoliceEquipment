@@ -3,7 +3,7 @@
  and the addition of a shotgun and rifle in case of important negotiations.
 
 1. drop the resources server.
-2. write to server.cfg or resources.sfg start ArmorPolice
+2. write to server.cfg or resources.sfg start PoliceEquipment
 
  #Command.
  
